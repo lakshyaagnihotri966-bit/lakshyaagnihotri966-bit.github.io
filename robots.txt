@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Sitemap: https://lakshyaagnihotri966-bit.github.io/sitemap.xml

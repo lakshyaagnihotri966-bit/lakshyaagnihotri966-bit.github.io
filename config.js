@@ -1,0 +1,2 @@
+// Public values only (anon key is safe in a public repo because of RLS in supabase.sql)
+const CFG={url:'https://gnfheefnbkfbqzjtttaz.supabase.co',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImduZmhlZWZuYmtmYnF6anR0dGF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4MjQ1MDksImV4cCI6MjEwNzQwMDUwOX0.9-4AzkutYCfu8RJae-Ucmq40UGkjoghtuopGkgVoyD0',adminEmail:'lakshyaagnihotri966@gmail.com'};
